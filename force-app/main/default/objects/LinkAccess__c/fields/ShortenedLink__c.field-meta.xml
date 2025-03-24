@@ -7,5 +7,4 @@
     <relationshipLabel>Link Accesses</relationshipLabel>
     <relationshipName>LinkAccesses</relationshipName>
     <type>MasterDetail</type>
-    <required>true</required>
 </CustomField>

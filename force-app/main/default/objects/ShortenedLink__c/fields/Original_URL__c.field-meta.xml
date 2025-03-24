@@ -3,8 +3,6 @@
     <fullName>Original_URL__c</fullName>
     <externalId>false</externalId>
     <label>Original URL</label>
-    <length>255</length>
     <required>false</required>
     <type>Url</type>
-    <visibleLines>1</visibleLines>
 </CustomField>

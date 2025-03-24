@@ -9,5 +9,5 @@
         <type>AutoNumber</type>
         <displayFormat>LA-{000000}</displayFormat>
     </nameField>
-    <sharingModel>ReadWrite</sharingModel>
+    <sharingModel>ControlledByParent</sharingModel>
 </CustomObject>
