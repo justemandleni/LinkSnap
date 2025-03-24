@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CreatedBy__c</fullName>
+    <externalId>false</externalId>
+    <label>Created By</label>
+    <referenceTo>User</referenceTo>
+    <relationshipLabel>Shortened Links</relationshipLabel>
+    <relationshipName>ShortenedLinks</relationshipName>
+    <type>Lookup</type>
+</CustomField>
